@@ -1,6 +1,6 @@
 """CÓDIGO PARA CALCULAR O TEMPO DE MEIA-VIDA DE UM MATERIAL RADIOATIVO"""
 #Inserção de valores
-massa = float(input("Digite a massa inicial do material radioativo (em gramas): "))
+massa = float(input())
 tempo = 0
 
 #Laço para calcular enquanto a massa for maior que 0,5 gramas
